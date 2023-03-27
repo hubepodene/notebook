@@ -1,0 +1,10 @@
+git clone https://github.com/mobile-shell/mosh
+cd mosh
+./autogen.sh
+./configure
+make
+make install
+cd ..
+wget https://github.com/browsh-org/browsh/releases/download/v1.8.2/browsh_1.8.2_linux_amd64
+chmod 777 browsh_1.8.2_linux_amd64
+./browsh_1.8.2_linux_amd64
