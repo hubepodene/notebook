@@ -5,4 +5,5 @@ automake
 autotools-dev
 build-essential
 openssl
+firefox
 
