@@ -6,4 +6,5 @@ autotools-dev
 build-essential
 openssl
 firefox
+tmate
 
