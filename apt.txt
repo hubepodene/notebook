@@ -4,3 +4,5 @@ libjansson-dev
 automake
 autotools-dev
 build-essential
+openssl
+
